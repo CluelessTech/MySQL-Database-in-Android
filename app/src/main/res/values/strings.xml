@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySQLCURDOperation</string>
+    <string name="id">ID</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="programming_language">Enter Programming Language</string>
+    <string name="submit"> Submit</string>
+</resources>
